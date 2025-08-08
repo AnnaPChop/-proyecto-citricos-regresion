@@ -1,5 +1,4 @@
-# proyecto-citricos-regresion
-- **Project Overview:**  
+# **Project Overview:**  
   Briefly describe the goal of the project (analyzing citrus fruit data, visualizing relationships, and applying linear regression).
 
 - **Data Source:**  
