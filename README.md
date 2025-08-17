@@ -5,11 +5,11 @@
   Mention the `citrus.csv` file and its location in the `data` folder.
 
 - **Main Features:**  
-  - Data loading and preparation
-  - Visualization of diameter vs. weight
-  - Linear regression analysis
-  - Prediction and error evaluation
-  - Handling missing values
+  - Data loading and preparation.
+  - Visualization of diameter vs. weight.
+  - Linear regression analysis.
+  - Prediction and error evaluation.
+  - Handling missing values.
 
 - **How to Run:**  
   Instructions for running the notebook and any dependencies (Python, pandas, numpy, matplotlib).
