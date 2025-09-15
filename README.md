@@ -18,4 +18,4 @@
   Summarize the main findings (relationship between diameter and weight, regression equation, error metrics).
 
 - **Future Work:**  
-  Suggest possible extensions, such as analyzing other fruit types, using more advanced models, or integrating with real-world applications..
+  Suggest possible extensions, such as analyzing other fruit types, using more advanced models, or integrating with real-world applications.
